@@ -1,0 +1,30 @@
+2023-05-21 16:35:08,883 INFO new transaction: 3.0 TRX: 346eac593b38b9367390a5dc36a21c35ade9ec66bf50243affda txID
+2023-05-21 16:35:17,574 ERROR error send transaction ('Account resource insufficient error.', 'BANDWITH_ERROR')
+2023-05-21 16:38:38,282 INFO new transaction: 3.0 TRX: cd39c417a935f75071cb695f98c74708c23fe3e5418577ca77a5730ba9db92a4 txID
+2023-05-21 16:38:50,949 ERROR error send transaction HTTPSConnectionPool(host='api.trongrid.io', port=443): Read timed out. (read timeout=10.0)
+2023-05-21 16:39:17,979 ERROR error get new transaction: HTTPSConnectionPool(host='api.trongrid.io', port=443): Max retries exceeded with url: /v1/accounts/TYDztGb8FEE5TwcQf2V3qYkC99A/transactions?only_to=true&limit=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d1073c1f0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-05-21 19:28:55,770 INFO new transaction: 2.0 TRX: fdc1d653193a2abce17eec699665da7abc56229f8903872120f920db txID
+2023-05-21 19:29:13,913 ERROR error get new transaction: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+2023-05-21 19:32:14,755 INFO new transaction: 3.0 TRX: 9ebedf3fca13e7648861b397d297394901da7240ae061872aea7923dfeff5565 txID
+2023-05-21 19:32:20,556 ERROR error get new transaction: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+2023-05-21 22:02:06,541 INFO new transaction: 2.0 TRX: 72d70308891c85719d6548c8636ccb763279213a2b40706f1dbbc3fd txID
+2023-05-21 22:08:25,367 INFO new transaction: 2.0 TRX: a2636ff3fd66c0264e755e48ff4c96c67b0c90766b60c15a7290df1 txID
+2023-05-21 22:08:35,384 INFO Send transaction: 0.6 TRX: 48067b91f5f128b9e3ebbdd1c6aafd4fb8914d27fa27c9fd326a15 txID
+2023-05-21 22:15:25,316 INFO new transaction: 2.0 TRX: cf170fe9ca442889433ee042c50a48b47b4c7402a3cbad819f8a2a7d070 txID
+2023-05-21 22:15:34,894 INFO Send transaction: 0.6 TRX: 3100166324747d8a982d42e0fab4400b2170da0ed54e92187cfb5dad txID
+2023-05-21 22:15:53,456 INFO new transaction: 2.0 TRX: 36d59afe787587fbd5d95425da3671d4aaa97a937884d2a8d67efd1 txID
+2023-05-21 22:16:04,173 INFO Send transaction: 0.6 TRX: 38399a2a313b702bf7f4be159a3d131fb5e85f948231a5ac483bb txID
+2023-05-21 22:21:42,546 INFO new transaction: 2.0 TRX: b12df28ce931aef2f80820a641957c68bb524ad62fa03c8ad2ad3f txID
+2023-05-21 22:21:56,691 INFO Send transaction: 0.6 TRX: c846e8e0c0660655e657aa94bf4104e4788d12d23f0c652a0c6a txID
+2023-05-21 22:22:28,604 INFO new transaction: 5.0 TRX: 2988b801f376dac5db6997977ae2269473094fc0f1348d275c1 txID
+2023-05-21 22:22:37,564 INFO Send transaction: 3.6 TRX: 52274d022aee86f4e255a0c57f12575135a34b0acd4417d6 txID
+2023-05-21 22:23:20,754 INFO new transaction: 10.0 TRX: cfcf6f379adaa7ce0083c29ea7c4e97891546635ee0a5ad16c1409f49 txID
+2023-05-21 22:23:33,892 INFO Send transaction: 8.6 TRX: cabf4596fd7f14a47bba3c61e1aa3b093f3b8ef77e920b55261 txID
+2023-05-21 22:24:35,442 INFO new transaction: 2.0 TRX: d2ef7ec44c44e507a2e135ea323583275c0420c1159e38e608d93 txID
+2023-05-21 22:24:53,465 INFO Send transaction: 0.6 TRX: 9430d98cecabbc93c6202788509f0f602eebb7ad15bdcd139a4 txID
+2023-05-21 22:26:33,264 INFO new transaction: 5.0 TRX: 8df2b341e784de624cc1c562ac8bf9367e71c3147b5e519a931c txID
+2023-05-21 22:26:42,604 INFO Send transaction: 3.6 TRX: c60204cba03b62bbb98c80c1840da48b85a65af910188e94 txID
+2023-05-21 22:27:05,971 INFO new transaction: 3.0 TRX: 4f0c27b4336a8f5e45ff52b4fd4e58f616b7a4e19b0d txID
+2023-05-21 22:27:16,420 INFO Send transaction: 1.6 TRX: bd7432e07138bf46983fef4e10471537b421fb56d5e10edc0 txID
+2023-05-21 22:27:33,417 INFO new transaction: 6.0 TRX: e2b27da974bd66b5a3dcd8c1031b80253ad89444efd86126 txID
+2023-05-21 22:27:41,550 INFO Send transaction: 4.6 TRX: 4922a3127a06cac8f5e5d9d5ff5abd03ee3c249972b8 txID
